@@ -76,6 +76,53 @@ Jakarta, Indonesia
 
 ---
 
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[GCP DevOps IaC](https://github.com/bimakw/gcp-devops-iac)**
+
+Production-ready GCP infrastructure with Terraform. GKE, Cloud SQL, Cloud Build, ArgoCD, Prometheus & Grafana.
+
+`Terraform` `GCP` `Kubernetes` `GitOps`
+
+</td>
+<td width="50%">
+
+**[API Gateway](https://github.com/bimakw/api-gateway)**
+
+Lightweight API Gateway with rate limiting, health checking, and reverse proxy capabilities.
+
+`Go` `Redis` `Microservices`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Service Presensi](https://github.com/bimakw/service-presensi)**
+
+Attendance management system with Clean Architecture. JWT auth, RBAC, and audit logging.
+
+`Go` `MongoDB` `Clean Architecture`
+
+</td>
+<td width="50%">
+
+**[Auth Service](https://github.com/bimakw/auth-service)**
+
+Authentication microservice with JWT, refresh tokens, and role-based access control.
+
+`Go` `PostgreSQL` `JWT`
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJxdnV0OHVxMnU0bTlhNzZtMzM5Mm8yeXFhNzZ0dHZsNGFqcnVrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDeI2yjpSRgdh35oe/giphy.gif" width="150"/>

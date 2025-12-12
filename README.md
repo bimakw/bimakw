@@ -76,11 +76,9 @@ Jakarta, Indonesia
 
 ---
 
-### Contribution Snake
-
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/bimakw/bimakw/output/github-snake-dark.svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJxdnV0OHVxMnU0bTlhNzZtMzM5Mm8yeXFhNzZ0dHZsNGFqcnVrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDeI2yjpSRgdh35oe/giphy.gif" width="150"/>
 
 </div>
 

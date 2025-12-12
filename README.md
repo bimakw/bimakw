@@ -7,6 +7,10 @@
 
 Jakarta, Indonesia
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bima-kharisma-wicaksana-aa3981153/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bimakw20@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/bimakw?label=Follow&style=social)](https://github.com/bimakw)
+
 </div>
 
 ---
@@ -14,6 +18,29 @@ Jakarta, Indonesia
 ### About
 
 6+ years crafting enterprise-grade software. I architect backend systems, lead cross-functional teams, and bridge the gap between legacy infrastructure and modern cloud-native solutions.
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimakw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimakw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bimakw&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+
+</div>
+
+---
+
+### Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bimakw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF)](https://github.com/bimakw)
+
+</div>
 
 ---
 
@@ -49,7 +76,18 @@ Jakarta, Indonesia
 
 ---
 
-### Connect
+### Contribution Snake
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bima-kharisma-wicaksana-aa3981153/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bimakw20@gmail.com)
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/bimakw/bimakw/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=bimakw&color=6366F1&style=flat-square)
+
+</div>

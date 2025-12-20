@@ -2,13 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Technical+Lead;Backend+Architect;Cloud+Engineer;System+Designer)](https://git.io/typing-svg)
 
-### Bima Kharisma Wicaksana
-**Building scalable systems that handle 100K+ users**
+### Gregorius Bima Kharisma Wicaksana
+**Technical Lead | Building scalable systems for 100K+ users**
 
 Jakarta, Indonesia
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bima-kharisma-wicaksana-aa3981153/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bimakw20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=flat&logo=google-chrome&logoColor=white)](https://bimastudio.infinityfreeapp.com)
 [![GitHub](https://img.shields.io/github/followers/bimakw?label=Follow&style=social)](https://github.com/bimakw)
 
 </div>
@@ -17,7 +18,7 @@ Jakarta, Indonesia
 
 ### About
 
-6+ years crafting enterprise-grade software. I architect backend systems, lead cross-functional teams, and bridge the gap between legacy infrastructure and modern cloud-native solutions.
+Results-driven Technical Lead with **6+ years** of full-stack and enterprise-level software development experience. Specializing in **Golang (Fiber)**, **.NET Core**, **Laravel**, and **cloud-native architecture**. Currently leading a 20-member technical division at PT. Indomarco Prismatama (Indomaret Group), architecting backend services supporting 100K+ internal users.
 
 ---
 
@@ -51,28 +52,32 @@ Jakarta, Indonesia
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Infrastructure**
+**Frameworks & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Cloud & Infrastructure**
+
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Specializations**
+**Practices**
 
-`Microservices` `System Design` `CI/CD` `Security` `Networking` `API Gateway Architecture`
+`Microservices` `Domain-Driven Design` `Hexagonal Architecture` `Clean Architecture` `CI/CD` `API Gateway Architecture`
 
 ---
 
@@ -82,40 +87,60 @@ Jakarta, Indonesia
 <tr>
 <td width="50%">
 
-**[GCP DevOps IaC](https://github.com/bimakw/gcp-devops-iac)**
+**[Percival (PMO)](https://github.com/bimakw/percival)**
 
-Production-ready GCP infrastructure with Terraform. GKE, Cloud SQL, Cloud Build, ArgoCD, Prometheus & Grafana.
+Full-stack PMO application for project tracking. Features project/task management, team & resource allocation, dashboard analytics.
 
-`Terraform` `GCP` `Kubernetes` `GitOps`
+`Next.js` `TypeScript` `Rust (Axum)` `PostgreSQL` `Docker`
 
 </td>
 <td width="50%">
 
-**[API Gateway](https://github.com/bimakw/api-gateway)**
+**[GCP DevOps IaC](https://github.com/bimakw/gcp-devops-iac)**
 
-Lightweight API Gateway with rate limiting, health checking, and reverse proxy capabilities.
+Production-ready GCP infrastructure with Terraform. GKE cluster, Cloud SQL, ArgoCD GitOps, Prometheus & Grafana monitoring.
 
-`Go` `Redis` `Microservices`
+`Terraform` `GKE` `Cloud SQL` `ArgoCD` `Prometheus`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[Service Presensi](https://github.com/bimakw/service-presensi)**
+**[Auth Service](https://github.com/bimakw/auth-service)**
 
-Attendance management system with Clean Architecture. JWT auth, RBAC, and audit logging.
+Authentication microservice with JWT, Google OAuth2, Two-Factor Authentication (TOTP) with backup codes, and RBAC.
 
-`Go` `MongoDB` `Clean Architecture`
+`Rust` `Actix-web` `PostgreSQL` `Redis` `JWT`
 
 </td>
 <td width="50%">
 
-**[Auth Service](https://github.com/bimakw/auth-service)**
+**[URL Shortener](https://github.com/bimakw/url-shortener)**
 
-Authentication microservice with JWT, refresh tokens, and role-based access control.
+High-performance URL shortening service with analytics and QR code generation. Throughput: 10,000+ req/s.
 
-`Go` `PostgreSQL` `JWT`
+`Go` `PostgreSQL` `Redis` `Clean Architecture`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[API Gateway](https://github.com/bimakw/api-gateway)**
+
+Lightweight API Gateway with rate limiting (token bucket), API key management, and reverse proxy.
+
+`Go` `Redis` `Docker`
+
+</td>
+<td width="50%">
+
+**[Service Presensi](https://github.com/bimakw/service-presensi)**
+
+HR Attendance system migration. Redis caching improved API response by 60%. Handles 10K+ concurrent users.
+
+`Golang (Fiber)` `Redis` `PostgreSQL` `GCP`
 
 </td>
 </tr>

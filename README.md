@@ -93,7 +93,7 @@ Lightweight API Gateway with rate limiting, API key management, and reverse prox
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bimakw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-<img height="160em" src="https://streak-stats.demolab.com/?user=bimakw&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimakw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
 
 </div>
 

@@ -23,11 +23,10 @@ Technical Lead with **6+ years** experience building enterprise systems. Current
 
 | Project | Organization | Contribution |
 |---------|--------------|--------------|
-| [**Gitea**](https://github.com/go-gitea/gitea) | Gitea | Fix HTML heading ID generation ([#36233](https://github.com/go-gitea/gitea/pull/36233)) |
+| [**Gitea**](https://github.com/go-gitea/gitea) | Gitea | Support closing keywords with URL references ([#36221](https://github.com/go-gitea/gitea/pull/36221)) |
+| [**Gitea**](https://github.com/go-gitea/gitea) | Gitea | Refactor SearchIssues helper functions ([#36158](https://github.com/go-gitea/gitea/pull/36158)) |
 | [**Karpenter IBM Cloud**](https://github.com/kubernetes-sigs/karpenter-provider-ibm-cloud) | Kubernetes SIGs | Fix nightly cleanup workflow ([#465](https://github.com/kubernetes-sigs/karpenter-provider-ibm-cloud/pull/465)) |
 | [**TiFlow**](https://github.com/pingcap/tiflow) | PingCAP | Improve dmctl error messages ([#12476](https://github.com/pingcap/tiflow/pull/12476)) |
-| [**ORAS**](https://github.com/oras-project/oras) | CNCF | Contributor |
-| [**Trivy**](https://github.com/aquasecurity/trivy) | Aqua Security | Contributor |
 
 ---
 
@@ -37,6 +36,15 @@ Technical Lead with **6+ years** experience building enterprise systems. Current
 <tr>
 <td width="50%">
 
+**[Lexicon](https://github.com/bimakw/lexicon)**
+
+Blog/CMS application with Clean Architecture. Features posts, categories, tags, authors, and comments with moderation.
+
+`.NET 8` `Next.js` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%">
+
 **[Detective Benno](https://github.com/bimakw/detective-benno)**
 
 Code review tool powered by LLM. GitHub Action that investigates PRs and posts inline comments for bugs, security issues, and code smells.
@@ -44,6 +52,8 @@ Code review tool powered by LLM. GitHub Action that investigates PRs and posts i
 `Python` `GitHub Actions` `OpenAI` `Ollama`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[GCP DevOps IaC](https://github.com/bimakw/gcp-devops-iac)**
@@ -53,8 +63,6 @@ Production-ready GCP infrastructure. GKE cluster, Cloud SQL, ArgoCD GitOps, Prom
 `Terraform` `GKE` `ArgoCD` `Prometheus`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **[Auth Service](https://github.com/bimakw/auth-service)**
@@ -62,15 +70,6 @@ Production-ready GCP infrastructure. GKE cluster, Cloud SQL, ArgoCD GitOps, Prom
 Authentication microservice with JWT, OAuth2, 2FA (TOTP), and RBAC.
 
 `Rust` `Actix-web` `PostgreSQL` `Redis`
-
-</td>
-<td width="50%">
-
-**[API Gateway](https://github.com/bimakw/api-gateway)**
-
-Lightweight API Gateway with rate limiting, API key management, and reverse proxy.
-
-`Go` `Redis` `Docker`
 
 </td>
 </tr>
@@ -87,15 +86,6 @@ Lightweight API Gateway with rate limiting, API key management, and reverse prox
 **Databases:** PostgreSQL, Redis, Firebase
 
 **Practices:** Microservices, Clean Architecture, DDD, CI/CD
-
----
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bimakw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimakw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
-
-</div>
 
 ---
 

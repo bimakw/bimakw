@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Technical+Lead;Backend+Architect;Cloud+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ### Gregorius Bima Kharisma Wicaksana
+
 **Technical Lead @ Indomaret Group | Open Source Contributor**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bima-kharisma-wicaksana-aa3981153/)

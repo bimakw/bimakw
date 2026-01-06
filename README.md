@@ -24,10 +24,11 @@ Technical Lead with **6+ years** experience building enterprise systems. Current
 
 | Project | Organization | Contribution |
 |---------|--------------|--------------|
+| [**Gitea**](https://github.com/go-gitea/gitea) | Gitea | Fix HTML heading ID generation ([#36233](https://github.com/go-gitea/gitea/pull/36233)) |
 | [**Gitea**](https://github.com/go-gitea/gitea) | Gitea | Support closing keywords with URL references ([#36221](https://github.com/go-gitea/gitea/pull/36221)) |
 | [**Gitea**](https://github.com/go-gitea/gitea) | Gitea | Refactor SearchIssues helper functions ([#36158](https://github.com/go-gitea/gitea/pull/36158)) |
+| [**TiFlow**](https://github.com/pingcap/tiflow) | PingCAP | Refine dmctl secret key error message ([#12476](https://github.com/pingcap/tiflow/pull/12476)) |
 | [**Karpenter IBM Cloud**](https://github.com/kubernetes-sigs/karpenter-provider-ibm-cloud) | Kubernetes SIGs | Fix nightly cleanup workflow ([#465](https://github.com/kubernetes-sigs/karpenter-provider-ibm-cloud/pull/465)) |
-| [**TiFlow**](https://github.com/pingcap/tiflow) | PingCAP | Improve dmctl error messages ([#12476](https://github.com/pingcap/tiflow/pull/12476)) |
 
 ---
 

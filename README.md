@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Technical+Lead;Backend+Architect;Cloud+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Tech+Lead;Backend+Architect;System+Builder)](https://git.io/typing-svg)
 
 ### Gregorius Bima Kharisma Wicaksana
 
-**Technical Lead @ Indomaret Group | Open Source Contributor**
+**Tech Lead · Backend Architect · Southeast Asia**
 
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/bimakw)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bima-kharisma-wicaksana-aa3981153/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bimakw20@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=flat&logo=google-chrome&logoColor=white)](https://bimakw.github.io)
 [![GitHub](https://img.shields.io/github/followers/bimakw?label=Follow&style=social)](https://github.com/bimakw)
 
@@ -17,61 +17,45 @@
 
 ### About
 
-Technical Lead with **7+ years** experience building enterprise systems. Architecting backend services for 100K+ internal users at Indomaret Group. Active open source contributor with 15+ merged PRs to projects like tscircuit, Gitea, Gumroad, and more. Currently exploring Sui Move and StarkNet for Web3 development.
+Tech Lead managing multiple engineering squads across Southeast Asia. I build backend systems, infrastructure, and tools that make small teams move like large ones.
+
+7+ years shipping production systems — from enterprise platforms serving hundreds of thousands of users to open source contributions across 10+ projects. Currently deep in Go, Rust, and Terraform. Exploring Web3 on the side.
+
+I also build systems that most engineers don't know exist yet. [My first post about it.](https://dev.to/bimakw/i-was-drowning-in-engineering-work-then-i-built-something-that-changed-everything-dd7-temp-slug-7144454)
 
 ---
 
-### Recent Open Source Contributions
+### Open Source
 
-| Project | Contribution | Status |
-|---------|--------------|--------|
-| [**tscircuit**](https://github.com/tscircuit/core) | Knockout props, highlightColor support, .kicad_mod imports | Merged |
-| [**Gumroad**](https://github.com/antiwork/gumroad) | Migrate Edit Product page to Inertia, scroll fixes | Merged |
+| Project | What I Did | Status |
+|---------|-----------|--------|
+| [**tscircuit**](https://github.com/tscircuit/core) | Knockout props, highlightColor, .kicad_mod imports | Merged |
+| [**Gumroad**](https://github.com/antiwork/gumroad) | Inertia migration, scroll fixes | Merged |
 | [**Cortex Linux**](https://github.com/cxlinux-ai/cx-core) | AI conflict predictor, TUI Dashboard ($150 bounty) | Merged |
-| [**Databuddy**](https://github.com/databuddy-analytics/Databuddy) | Feature flag folders implementation | Merged |
-| [**StarkNet.go**](https://github.com/NethermindEth/starknet.go) | EstimateFeeFlag type, Block return types | Open |
-| [**Gitea**](https://github.com/go-gitea/gitea) | CODEOWNERS attribution, HTML heading ID fix | Merged |
+| [**Gitea**](https://github.com/go-gitea/gitea) | CODEOWNERS attribution, HTML heading fix | Merged |
+| [**Databuddy**](https://github.com/databuddy-analytics/Databuddy) | Feature flag folders | Merged |
+| [**StarkNet.go**](https://github.com/NethermindEth/starknet.go) | Type fixes, block return types | Open |
 
 ---
 
-### Featured Projects
+### What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-**[Multichain RPC Proxy](https://github.com/bimakw/multichain-rpc-proxy)**
+**[API Gateway](https://github.com/bimakw/api-gateway)**
 
-High-performance multi-chain RPC load balancer with health monitoring, automatic failover, and Prometheus metrics.
+Rate limiting, circuit breaker, reverse proxy, Prometheus metrics. Production-grade.
 
-`Go` `Web3` `Prometheus` `Docker`
-
-</td>
-<td width="50%">
-
-**[Sui DeFi Vault](https://github.com/bimakw/sui-defi-vault)**
-
-Sui Move DeFi primitives including vault, staking, and lending protocols with secure deposit/withdraw.
-
-`Sui Move` `DeFi` `Smart Contract`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[TCP Load Balancer](https://github.com/bimakw/tcp-loadbalancer)**
-
-Layer 4 TCP load balancer in pure Go. Round-robin and least-connections with health checks.
-
-`Go` `Networking` `Load Balancer`
+`Go` `Redis` `Prometheus` `Docker`
 
 </td>
 <td width="50%">
 
 **[Auth Service](https://github.com/bimakw/auth-service)**
 
-Authentication microservice with JWT, OAuth2, TOTP 2FA, RBAC, and audit logging.
+JWT, OAuth2, TOTP 2FA, RBAC, audit logging. Written in Rust because why not.
 
 `Rust` `Actix-web` `PostgreSQL` `Redis`
 
@@ -80,20 +64,40 @@ Authentication microservice with JWT, OAuth2, TOTP 2FA, RBAC, and audit logging.
 <tr>
 <td width="50%">
 
-**[API Gateway](https://github.com/bimakw/api-gateway)**
+**[Chain Indexer](https://github.com/bimakw/chain-indexer)**
 
-Production-ready gateway with circuit breaker, rate limiting, and Prometheus metrics.
+ERC-20 transfer indexer with real-time WebSocket streaming and PostgreSQL storage.
 
-`Go` `Redis` `Prometheus` `Docker`
+`Go` `PostgreSQL` `WebSocket` `Web3`
 
 </td>
 <td width="50%">
 
 **[GCP DevOps IaC](https://github.com/bimakw/gcp-devops-iac)**
 
-Production-ready GCP infrastructure with GKE, Istio, ArgoCD GitOps, and observability stack.
+Full GCP infrastructure — GKE, Cloud SQL, ArgoCD GitOps, observability stack.
 
 `Terraform` `GKE` `ArgoCD` `Prometheus`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[GraphQL Store](https://github.com/bimakw/graphql-store)**
+
+E-commerce GraphQL API with DataLoader, Redis caching, and connection-based pagination.
+
+`Go` `gqlgen` `PostgreSQL` `Redis`
+
+</td>
+<td width="50%">
+
+**[Detective Benno](https://github.com/bimakw/detective-benno)**
+
+Automated code review bot that actually knows your codebase patterns.
+
+`Go` `GitHub API` `Code Analysis`
 
 </td>
 </tr>
@@ -101,17 +105,15 @@ Production-ready GCP infrastructure with GKE, Istio, ArgoCD GitOps, and observab
 
 ---
 
-### Tech Stack
+### Stack
 
-**Languages:** Go, Rust, TypeScript, C#, Sui Move, Solidity
+**Languages:** Go · Rust · TypeScript · C# · PHP · Sui Move
 
-**Infrastructure:** Kubernetes, Docker, Terraform, GCP, AWS, GitHub Actions
+**Infrastructure:** Kubernetes · Docker · Terraform · GCP · AWS · Jenkins · GitHub Actions
 
-**Databases:** PostgreSQL, Redis, MongoDB, Elasticsearch
+**Data:** PostgreSQL · Redis · MongoDB · Elasticsearch
 
-**Web3:** Sui, StarkNet, EVM, DeFi protocols
-
-**Practices:** Microservices, Clean Architecture, DDD, CI/CD
+**Practices:** Clean Architecture · DDD · TDD · Microservices · GitOps
 
 ---
 

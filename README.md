@@ -21,7 +21,7 @@ Tech Lead managing multiple engineering squads across Southeast Asia. I build ba
 
 7+ years shipping production systems — from enterprise platforms serving hundreds of thousands of users to open source contributions across 10+ projects. Currently deep in Go, Rust, and Terraform. Exploring Web3 on the side.
 
-I also build systems that most engineers don't know exist yet. [My first post about it.](https://dev.to/bimakw/i-was-drowning-in-engineering-work-then-i-built-something-that-changed-everything-dd7-temp-slug-7144454)
+I also build systems that most engineers don't know exist yet. [My first post about it.](https://dev.to/bimakw/i-was-drowning-in-engineering-work-then-i-built-something-that-changed-everything-5159)
 
 ---
 
